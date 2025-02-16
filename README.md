@@ -58,7 +58,8 @@ The project is organized into the following sections:
 ---
 
 ## 📊 Results 
-⚡ The project demonstrates the agent's performance in each environment after applying the Policy Iteration and Value Iteration algorithms. The plots show how well the agent is able to navigate the FrozenLake environments and the comparison between the two algorithms.
+⚡ The project demonstrates the agent's performance in each environment after applying the Policy Iteration and Value Iteration algorithms. 
+⚡ The plots show how well the agent is able to navigate the FrozenLake environments and the comparison between the two algorithms.
 
 ---
 
