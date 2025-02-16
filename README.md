@@ -40,10 +40,15 @@ The project is organized into the following sections:
    ```bash
    jupyter notebook
    ```
-3. Open the file `Assignment-1-RegNumb-#YOUR_REGISTRATION_NUMBER#.ipynb` and follow the instructions to execute the cells.
+3. Open the file `Dynamic_Programming_in_FrozenLake.ipynb` and follow the instructions to execute the cells.
+
+### Expected Output:
+- The project includes plots of the value function and the optimal policy for both environments. The visualizations will show:
+  - **State Value Function**: The expected return from each state.
+  - **Optimal Policy**: The best action to take at each state.
 
 ## Results 📊
-The project includes plots of the value function and the optimal policy for both environments. Additionally, it demonstrates the agent's performance in each environment after applying the Policy Iteration and Value Iteration algorithms.
+- The project demonstrates the agent's performance in each environment after applying the Policy Iteration and Value Iteration algorithms. The plots show how well the agent is able to navigate the FrozenLake environments and the comparison between the two algorithms.
 
 ## Contributions 🤝
 Contributions are welcome! If you find any issues or have suggestions to improve the project, please open an issue or submit a pull request.
