@@ -1,4 +1,4 @@
-# 🧊🤖 Dynamic Programming in FrozenLake: Policy Iteration and Value Iteration 
+# 🤖 Dynamic Programming in FrozenLake: Policy Iteration and Value Iteration 🧊
 
 ## 📌📝Project Description 
 This project implements **Dynamic Programming algorithms**, specifically **Policy Iteration** and **Value Iteration**, to solve the FrozenLake environment in OpenAI Gym. The goal is to find the optimal policy that allows the agent to navigate from the starting point to the goal without falling into holes. The project includes the implementation of policy evaluation, policy improvement, and value iteration algorithms, and tests them on two versions of the FrozenLake environment: a 5x5 grid with a bridge and a larger 15x9 grid.
@@ -7,11 +7,11 @@ This project implements **Dynamic Programming algorithms**, specifically **Polic
 
 ## 📦Requirements 
 To run this project, you will need the following Python libraries:
-✔️ `gym`
-✔️ `numpy`
-✔️ `matplotlib`
-✔️ `pygame`
-✔️ `pyvirtualdisplay`
+- ✔️ `gym`
+- ✔️ `numpy`
+- ✔️ `matplotlib`
+- ✔️ `pygame`
+- ✔️ `pyvirtualdisplay`
 
 You can install the dependencies by running:
 ```bash
@@ -51,9 +51,9 @@ The project is organized into the following sections:
 ---
 
 ### 🤖 Expected Output:
-✅  The project includes plots of the value function and the optimal policy for both environments. The visualizations will show:
-  ✅  **State Value Function**: The expected return from each state.
-  ✅  **Optimal Policy**: The best action to take at each state.
+- ✅  The project includes plots of the value function and the optimal policy for both environments. The visualizations will show:
+  - ✅  **State Value Function**: The expected return from each state.
+  - ✅  **Optimal Policy**: The best action to take at each state.
 
 ---
 
