@@ -1,6 +1,6 @@
 # 🤖 Dynamic Programming in FrozenLake: Policy Iteration and Value Iteration 🧊
 
-## 📌📝Project Description 
+## 📌Project Description 📝
 This project implements **Dynamic Programming algorithms**, specifically **Policy Iteration** and **Value Iteration**, to solve the FrozenLake environment in OpenAI Gym. The goal is to find the optimal policy that allows the agent to navigate from the starting point to the goal without falling into holes. The project includes the implementation of policy evaluation, policy improvement, and value iteration algorithms, and tests them on two versions of the FrozenLake environment: a 5x5 grid with a bridge and a larger 15x9 grid.
 
 ---
